@@ -1,0 +1,4 @@
+* GTFO
+* GTG
+* LMFAO
+* ASL
