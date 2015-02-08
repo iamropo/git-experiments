@@ -1,8 +1,11 @@
 ---
-title: This will be used as the title-tag of the page head
+title: Optimize for Happiness
 ---
 
-# This is a H1
+{{ page.title }}
+================
+
+## This is a H2
 
 [the clickable text](http://xlson.com/)
 
