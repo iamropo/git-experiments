@@ -5,6 +5,6 @@ PIN: 78368475
 ---
 
 # {{ page.title }}
-### {{ page.PIN }}
+## {{ page.PIN }}
 
 {% include gtfo.md %}
