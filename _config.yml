@@ -13,4 +13,3 @@ baseurl: http://hacksparrow.github.io/git-experiments
 
 # Build settings
 markdown: kramdown
-activate :syntax

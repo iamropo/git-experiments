@@ -67,7 +67,7 @@ def foo():
 
 OK
 
-```
+``` js
 var server = app.listen(3000, function () {
 
   var host = server.address().address
