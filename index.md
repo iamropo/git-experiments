@@ -63,10 +63,18 @@ end
 # Here is some in python
 def foo():
   print
+```
+
+OK
+
+```
+var s = 8989
+var y = 34534
+```
 
 -------
 
-~~~ ruby
+~~~ js
 var server = app.listen(3000, function () {
 
   var host = server.address().address
