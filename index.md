@@ -34,3 +34,18 @@ var u = new User()
 u.init()
 // Now the user is ready
 ```
+
+And the command to install `nmap`:
+
+{% highlight sh %}
+$ sudo apt-get install npm
+{% endhighlight %}
+
+Happy fun highlighting. 
+[More details](https://github.com/mojombo/jekyll/wiki/liquid-extensions)
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
