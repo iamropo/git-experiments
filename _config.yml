@@ -12,7 +12,3 @@ github_username:  jekyll
 baseurl: http://hacksparrow.github.io/git-experiments
 
 # Build settings
-markdown: kramdown
-# syntax-highlighting:
-#   enabled : true
-#   css: syntax.css
