@@ -49,3 +49,18 @@ def foo
   puts 'foo'
 end
 {% endhighlight %}
+
+MAOAR MOAR!
+
+```ruby
+# This is highlighted code
+def foo
+  puts 'foo'
+end
+```
+```python
+# Here is some in python
+def foo():
+  print
+  
+  
