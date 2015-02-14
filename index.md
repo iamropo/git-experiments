@@ -58,9 +58,29 @@ def foo
   puts 'foo'
 end
 ```
+
 ```python
 # Here is some in python
 def foo():
   print
+
+-------
+
+~~~ ruby
+def what?
+  42
+end
+~~~
+
+next
+
+~~~~~~
+This is also a code block.
+~~~
+Ending lines must have at least as
+many tildes as the starting line.
+~~~~~~~~~~~~
+
+
   
   
