@@ -14,4 +14,4 @@ github_username:  jekyll
 markdown: kramdown
 syntax-highlighting:
   enabled : true
-  css: ruby.css
+  css: syntax.css
