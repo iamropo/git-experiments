@@ -80,6 +80,9 @@ var server = app.listen(3000, function () {
 
 -------
 
+<table>
+<tr>
+<td>
 ~~~ js
 var server = app.listen(3000, function () {
 
@@ -90,6 +93,9 @@ var server = app.listen(3000, function () {
 
 })
 ~~~
+</td>
+</tr>
+</table>
 
 next
 
