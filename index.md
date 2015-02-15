@@ -82,7 +82,7 @@ var server = app.listen(3000, function () {
 
 <table>
 <tr>
-<td>
+<td markdown="1">
 ~~~ js
 var server = app.listen(3000, function () {
 
