@@ -29,11 +29,11 @@ PIN: 78368475
 
 You have to use `users` variable:
 
-```
+~~~js
 var u = new User()
 u.init()
 // Now the user is ready
-```
+~~~
 
 And the command to install `nmap`:
 
