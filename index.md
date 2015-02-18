@@ -1,105 +1,36 @@
 ---
-title: LOLWAT
-layout: default
-PIN: 78368475
+layout: home
+title: Express - Node.js web application framework
+menu: home
 ---
 
-# {{ page.title }}
+<section id="home-content">
+    {% include header.html %}
+    <div id="overlay"></div>
+    <section id="description"><a href="/" class="express">Express</a><span class="description">Fast, unopinionated, minimalist web framework for <a href='http://nodejs.org'>Node.js</a></span>
+    </section>
+    <div id="install-command">$ npm install express --save</div>
+</section>
 
-## {{ page.title }}
+<section id="intro">
+    <div id="boxes" class="clearfix">
 
-----
+        <div id="web-applications">
+            <h3>Web Applications</h3> Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+        </div>
 
-# H1 header
+        <div id="apis">
+            <h3>APIs</h3> With a myriad of HTTP utility methods and middleware at your disposal, creating a robust API is quick and easy.
+        </div>
 
-## H2 header
+        <div id="performance">
+            <h3>Performance</h3> Express provides a thin layer of fundamental web application features, without obscuring Node features that you know and love.
+        </div>
 
-### H3 header
+        <div id="sponsorship">
+            <a href="http://loopback.io/"><h3>LoopBack</h3> Develop model-driven apps with an Express-based framework.<br/>Find out more at loopback.io.</a>
+        </div>
+        
+    </div>
+</section>
 
-#### H4 header
-
-##### H5 header
-
-###### H6 header
-
-1. ONE
-2. TWO
-
-{% include gtfo.md %}
-
-You have to use `users` variable:
-
-```
-var u = new User()
-u.init()
-// Now the user is ready
-```
-
-And the command to install `nmap`:
-
-{% highlight sh %}
-$ sudo apt-get install npm
-{% endhighlight %}
-
-Happy fun highlighting. 
-[More details](https://github.com/mojombo/jekyll/wiki/liquid-extensions)
-
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-
-MAOAR MOAR!
-
-```ruby
-# This is highlighted code
-def foo
-  puts 'foo'
-end
-```
-
-```python
-# Here is some in python
-def foo():
-  print
-```
-
-OK
-
-``` js
-var server = app.listen(3000, function () {
-
-  var host = server.address().address
-  var port = server.address().port
-
-  console.log('Example app listening at http://%s:%s', host, port)
-
-})
-```
-
--------
-
-~~~ js
-var server = app.listen(3000, function () {
-
-  var host = server.address().address
-  var port = server.address().port
-
-  console.log('Example app listening at http://%s:%s', host, port)
-
-})
-~~~
-
-next
-
-~~~~~~
-This is also a code block.
-~~~
-Ending lines must have at least as
-many tildes as the starting line.
-~~~~~~~~~~~~
-
-
-  
-  
