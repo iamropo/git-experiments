@@ -1,5 +1,5 @@
 ---
-title: YOLO & SWAG
+title: YOLO, SWAG, & BLING
 ---
 
-** YOLO & SWAG **
+** YOLO, SWAG, & BLING **
