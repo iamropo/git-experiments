@@ -5,3 +5,6 @@
 
 "YOLO"
 - JB
+
+"No bling, no life!"
+- Kanye
