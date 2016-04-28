@@ -5,7 +5,7 @@ title: YOLO, SWAG, & BLING
 **YOLO, SWAG, & BLING**
 
 ```js
-This some JS
+var i = 'Hi';
 ```
 
 ```sh
